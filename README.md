@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # AI Studio Gemini App Proxy Server
 
 This nodejs proxy server lets you run your AI Studio Gemini application unmodified, without exposing your API key in the frontend code.
@@ -19,3 +20,6 @@ This nodejs proxy server lets you run your AI Studio Gemini application unmodifi
     ```
     gcloud run deploy my-app --source=. --update-secrets=GEMINI_API_KEY=gemini_api_key:latest
     ```
+=======
+# APX-Homepage-v1.0
+>>>>>>> 48fefe7660d289238b1d6ca0df1cd0582dc0ff28
